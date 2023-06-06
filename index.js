@@ -6,6 +6,6 @@ function verificar () {
         document.getElementById("resposta").innerHTML = "O número digitado é par"
     }
     else{
-        document.getElementById("resposta").innerHTML = "O número digitado é impar"
+        document.getElementById("resposta").innerHTML = "O número digitado é ímpar"
     }
 }
